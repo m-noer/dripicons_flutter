@@ -1,0 +1,27 @@
+name: dripicons_flutter
+description: Flutter icon package using dripicons. A completely free vector line-icon font by Amit Jakhu
+version: 0.0.1
+author: Muhammad Noerhidayatullah<mnoer900913@gmail.com>
+homepage: https://github.com/m-noer
+repository: https://github.com/m-noer
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: DripIcons
+      fonts:
+        - asset: fonts/dripicons-v2.ttf
+    - family: DripIconsWeather
+      fonts:
+        - asset: fonts/dripicons-weather.ttf
