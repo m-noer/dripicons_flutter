@@ -4,10 +4,10 @@ DripIcons Flutter
 #### Thanks to authors of Dripicons [Amit Jakhu](https://github.com/amitjakhu/dripicons)
 
 ##### DripiIcons 
-![alt text](assets/dripicons.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/m-noer/dripicons_flutter/master/assets/dripicons.png "Dripicons")
 
 ##### DripiIcons Weather 
-![alt text](assets/dripicons_weather.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/m-noer/dripicons_flutter/master/assets/dripicons_weather.png "Dripicons weather")
 
 ## Usage
 ```dart

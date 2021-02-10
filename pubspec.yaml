@@ -1,9 +1,9 @@
 name: dripicons_flutter
 description: Flutter icon package using dripicons. A completely free vector line-icon font by Amit Jakhu
-version: 0.0.1
+version: 0.0.2
 author: Muhammad Noerhidayatullah<mnoer900913@gmail.com>
-homepage: https://github.com/m-noer
-repository: https://github.com/m-noer
+homepage: https://github.com/m-noer/dripicons_flutter
+repository: https://github.com/m-noer/dripicons_flutter
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
